@@ -1,0 +1,42 @@
+ejercicio 1
+
+1 A: Las reglas de java scrip serian
+
+
+1-tiene sentencias condicionales como if, else, switch y bucles de repetición como for, while o while que garantizan un unico punto de entrada y salida en los bloques de  ejecucion
+
+2- tiene un formato de ejecucion separado por instrucciones como punto y coma(;)  y bloques delimitados con llaves ( { } )
+
+3- tiene reglas para reservar espacios de memoria usando las lineas Let y const las cuales respetan ambitos de bloque
+
+4- tiene procedimientos explicitos mediante la palabra clave function que reciben parametros de valor y referencia y que devuelven un resultado implicito o explicito con return
+
+5- tiene reglas que permiten declarar variables sin especificar el tipo de dato cexplicitamente
+
+--------------------------------------------------------------------------------------------------------------------------
+2 A: 
+
+1- se dice que la sintaxis de JavaScript es mas agil y directa para codear comparado a otros lenguajes, osea mas rapido     
+
+2- se dice que  la convicción de escribir código estructurado en JavaScript es superior porque el mismo bloque de código puede ejecutarse sin modificaciones en cualquier navegador web o entorno de servidor (Node.js).
+
+3- tiene una mejor gestion al usar los codigos let y const
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+2 B:
+
+1- Sí. La sintaxis y la semántica están formalmente especificadas en el estándar ECMAScript (ECMA-262).
+
+2- si
+
+3-y se dice mucho que si
+
+4- masomenos (segun la IA, la use por que no entendia bien)
+
+5- masomenos tambien (segun entendi de la ia)
+
+6- no es extensible y si tiene subconjuntos
+
+7- si, ya que se creo con la idea de que fuera un lenguaje universal hasta que vino Steve Jobs y apple
